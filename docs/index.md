@@ -1,20 +1,23 @@
-# Welcome to MkDocs
+# Wetgeving/APV van Timeless Roleplay
+<br>
+<br>
+Welkom bij de wet- en regelgeving van Timeless Roleplay. De verschillende documenten die onze wet- en regelgeving omvat zijn opgesteld om de speelervaring voor iedereen zo leuk mogelijk te houden.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Het is zaak dat iedereen die deelneemt aan Timeless op de hoogte is van de regels en wetten.
 
-## Commands
+De volgende documenten worden behandeld op deze website:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* De APV is een verzameling van regels en richtlijnen die te maken hebben met zaken buiten roleplay.
 
-## Project layout
+* Het wetboek van Timeless omvat alle wetten in de roleplay.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* De overige documenten zijn van toepassing op verschillende in-game zaken, zoals voertuigeisen en dergelijke.
 
+<br>
 
-## Dikke poep
+## Officiële discord servers
+
+| Titel | Omschrijving | Uitnodiging |
+| ---| -------------| ---- |
+| Timeless Roleplay | Discord server van Timeless Roleplay | [klik hier](https://discord.gg/UJhT4m27mF)
+| Paragraph | Text |
