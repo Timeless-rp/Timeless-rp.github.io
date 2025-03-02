@@ -95,8 +95,8 @@
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -109,8 +109,8 @@
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -123,8 +123,8 @@
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -136,8 +136,8 @@
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -149,8 +149,8 @@
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -161,8 +161,8 @@
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -175,8 +175,8 @@
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -187,8 +187,8 @@
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -202,8 +202,8 @@
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -218,8 +218,8 @@
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -232,8 +232,8 @@
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -245,8 +245,8 @@
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -259,8 +259,8 @@
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -273,8 +273,8 @@
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -288,8 +288,8 @@
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -303,9 +303,8 @@
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
-
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 <br>
 
 ### Artikel II-8 vernieling
@@ -318,8 +317,8 @@
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -337,8 +336,8 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -350,8 +349,8 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -366,8 +365,8 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -379,8 +378,8 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -409,8 +408,8 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -424,8 +423,8 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -438,8 +437,8 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -451,8 +450,8 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -466,8 +465,8 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -479,8 +478,8 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -492,8 +491,8 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -509,8 +508,8 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
 | ------------------ | ------ | ---------| ---------- |
 | Eerste veroordeling | x maanden | x uren | €x,- |
-| Derde veroordeling | x maanden | x uren | €x,- |
 | Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
 
 <br>
 
@@ -554,8 +553,8 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | ***Staandehouding*** | ***Taakstraf*** | ***Sanctie*** | 
 | ------------------ | ---------| ---------- |
 | Eerste Staandehouding | x uren | Inbeslagname/afslepen voertuig |
-| Derde Staandehouding | x uren | Inbeslagname/afslepen voertuig |
-| Tweede Staandehouding |  x uren | Inbeslagname/afslepen voertuig |
+| Tweede Staandehouding | x uren | Inbeslagname/afslepen voertuig |
+| Meerdere Staandehoudingen |  x uren | Inbeslagname/afslepen voertuig |
 <br>
 
 | ***Feit*** | ***Boete*** | 
@@ -584,5 +583,630 @@ Een terroristisch misdrijf/daad houdt in dat er sprake is van de intentie om de 
 | Stilstaan waar dit niet is toegestaan | €x,- |
 | Onnodig links rijden | €x,- |
 | Doorrijden bij een stopbord | €x,- |
+
+<br>
+
+## IV - Opiumwet
+<br>
+
+### Artikel IV-1 Harddrugs
+1. Schuldig is een persoon die harddrugs vergaart, in bezit heeft, vervoert, of verkoopt.
+2. Schuldig is ook een persoon die de ingrediënten, benodigd voor het vervaardigen van harddrugs, vergaart, in bezit heeft, of verkoopt.
+3. Strafbepaling geschiedt op grond van de totale hoeveelheid die aangetroffen is, ook wanneer dit verspreid is over meerdere personen.
+4. De hoeveelheid zoals bedoeld in lid 3 wordt opgeteld ten laste gelegd per persoon.
+5. Wanneer niet te bewijzen valt dat meerdere personen in samenwerking waren wordt de strafbepaling niet opgeteld toegepast.
+6. Strafbepaling geschiedt op basis van aantallen ingrediënten en aantallen eindproducten.
+7. Wanneer er een mix van de aantallen in lid 6 aangetroffen wordt, zal er met een berekening van het aantal eindproducten maal 5, een totaal aan goederen berekend worden. De strafbepaling geschiedt vervolgens zoals bepaald in lid 2.
+
+**Rekentabel Harddrugs: ingrediënten**
+<br>
+
+| ***1-25 ingrediënten*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+| ***26-200 ingrediënten*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+| ***201-250 ingrediënten*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+| ***hoeveelheid ingrediënten*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| 251-500 | x maanden | x uren | €x,- |
+| 501-750 | x maanden | x uren | €x,- |
+| 751-1000 | x maanden | x uren | €x,- |
+| 1001-1500 | x maanden | x uren | €x,- |
+| 1501-2500 | x maanden | x uren | €x,- |
+| 2501-5000 | x maanden | x uren | €x,- |
+| 5001 en meer | x maanden | x uren | €x,- |
+
+<br>
+
+**Rekentabel Harddrugs: Eindproducten**
+<br>
+
+| ***1-5 eindproducten*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+| ***6-40 eindproducten*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+| ***41-50 eindproducten*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+| ***hoeveelheid eindproducten*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| 51-100 | x maanden | x uren | €x,- |
+| 101-150 | x maanden | x uren | €x,- |
+| 151-250 | x maanden | x uren | €x,- |
+| 251-500 | x maanden | x uren | €x,- |
+| 501-1000 | x maanden | x uren | €x,- |
+| 1001-2500 | x maanden | x uren | €x,- |
+| 2501 en meer | x maanden | x uren | €x,- |
+
+<br>
+
+### Artikel IV-2 Softdrugs
+1. Schuldig is een persoon die softdrugs vergaart, in bezit heeft, vervoert, of verkoopt.
+2. Schuldig is ook een persoon die de ingrediënten, benodigd voor het vervaardigen van softdrugs, vergaart, in bezit heeft, of verkoopt.
+3. Strafbepaling geschiedt op grond van de totale hoeveelheid die aangetroffen is, ook wanneer dit verspreid is over meerdere personen.
+4. Niet schuldig is een persoon die 5 ingrediënten 1 eindproduct voor eigen gebruik bij zich draagt.
+5. De hoeveelheid zoals bedoeld in lid 3 wordt opgeteld ten laste gelegd per persoon.
+6. Wanneer niet te bewijzen valt dat meerdere personen in samenwerking waren wordt de strafbepaling niet opgeteld toegepast.
+7. Strafbepaling geschiedt op basis van aantallen ingrediënten en aantallen eindproducten.
+8. Wanneer er een mix van de aantallen in lid 7 aangetroffen wordt, zal er met een berekening van het aantal eindproducten maal 5, een totaal aan goederen berekend worden. De strafbepaling geschiedt vervolgens zoals bepaald in lid 2.
+<br>
+
+**Rekentabel Softdrugs: ingrediënten**
+<br>
+
+| ***6-25 ingrediënten*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+| ***26-200 ingrediënten*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+| ***201-250 ingrediënten*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+| ***hoeveelheid ingrediënten*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| 251-500 | x maanden | x uren | €x,- |
+| 501-750 | x maanden | x uren | €x,- |
+| 751-1000 | x maanden | x uren | €x,- |
+| 1001-1500 | x maanden | x uren | €x,- |
+| 1501-2500 | x maanden | x uren | €x,- |
+| 2501-5000 | x maanden | x uren | €x,- |
+| 5001 en meer | x maanden | x uren | €x,- |
+
+<br>
+
+**Rekentabel Softdrugs: eindproducten**
+<br>
+
+| ***2-5 eindproducten*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+| ***6-40 eindproducten*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+| ***41-50 eindproducten*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+| ***hoeveelheid eindproducten*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| 51-100 | x maanden | x uren | €x,- |
+| 101-150 | x maanden | x uren | €x,- |
+| 151-250 | x maanden | x uren | €x,- |
+| 251-500 | x maanden | x uren | €x,- |
+| 501-1000 | x maanden | x uren | €x,- |
+| 1001-2500 | x maanden | x uren | €x,- |
+| 2501 en meer | x maanden | x uren | €x,- |
+
+<br>
+
+## V - Wet Wapens en Munitie
+
+<br>
+
+### Artikel V-1 Tasers
+1. Strafbaar is een persoon die een stroomstootwapen voorhanden heeft, bij zich draagt, opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoersmiddel.
+<br>
+
+| ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+### Artikel V-2 Vuurwapens en Explosieven
+1. Strafbaar is een persoon die een vuurwapen voorhanden heeft, bij zich draagt, of opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoersmiddel.
+2. Onderscheid wordt gemaakt tussen:
+3. kleine vuurwapens (pistolen, revolvers, e.d.), aangeduid als Categorie 1;
+4. Automatische vuurwapens, jachtgeweren, shotguns, explosieven, granaten, thermiet, etc., aangeduid als Categorie 2.
+<br>
+
+**Categorie 1**
+
+| ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+**Categorie 2**
+
+| ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+### Artikel V-3 Steek- en slagwapens
+1. Strafbaar is een persoon die een steekwapen voorhanden heeft, bij zich draagt, of opgeslagen heeft in huis of in de laadruimte van zijn of haar vervoersmiddel.
+2. Strafbaar is een persoon die een slagwapen voorhanden heeft of bij zich draagt, waarvan redelijkerwijs kan worden aangenomen dat deze bestemd is om letsel toe te brengen.
+3. Er geldt een gedoogbeleid betreffende het bezit van steekwapens. Indien er geen strafbaar feit is gepleegd met het wapen, kan een persoon het wapen vrijwillig afgeven en in ruil daarvoor geen strafvervolging ondergaan.
+4. In risicogebieden is het voorhanden hebben, bij je dragen, of opgeslagen hebben in huis of in de laadruimte van je vervoersmiddel van een steek- of slagwapen onder alle omstandigheden verboden. Het gedoogbeleid is dan niet van toepassing.
+<br>
+
+| ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+### Artikel V-4 Nepwapens, holsters en replica's
+1. Strafbaar is een persoon die een holster draagt met daarin een nepwapen of replica die, van dichtbij of op enige afstand, niet gemakkelijk van echt te onderscheiden is.
+<br>
+
+| ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+### Artikel V-5 Wapenhandel
+1. Strafbaar is een persoon die wapens, aangemerkt als niet legaal, invoert, uitvoert, of doorvoert zonder hiervoor een geldig consent te hebben.
+2. Indien een ophanden zijnde wapentransactie aantoonbaar gepleegd zou gaan worden, of dreigde te gaan worden, doch niet is afgerond, wordt dit aangemerkt als poging tot wapenhandel.
+3. Een poging tot wapenhandel zoals beschreven in lid 2 wordt bestraft als zijnde wapenhandel, verminderd met 1/2.
+<br>
+
+| ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+### Artikel V-6 Munitiebezit
+1. Strafbaar is een persoon die munitie voorhanden heeft.
+2. Voor elke clip word de straf met 25% verhoogd
+3. Binnen de munitie wordt er een verschil aangehouden tussen categorie 1 en categorie 2 munitie (zie Artikel V-2)
+<br>
+
+**Categorie 1 Munitie** 
+
+| ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+**Categorie 2 Munitie** 
+
+| ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+## VI - Wet op de kansspelen
+<br>
+
+### Artikel VI-1 Algemeen verbod
+1. Schuldig is een persoon die zonder geldige vergunning een gelegenheid biedt om mee te dingen naar prijzen of geld, in de vorm van een kansspel.
+2. Niet schuldig is een persoon die hiervoor een geldende vergunning heeft.
+<br>
+
+| ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+### Artikel VI-2 Casinospelen
+1. Schuldig is een persoon die zonder geldige vergunning casinospelen op basis van kansbepaling publiekelijk of bedrijfsmatig aanbiedt.
+2. Niet schuldig is een persoon die hiervoor een geldende vergunning heeft.
+3. De Overheid behoudt het recht om op één of enkele plekken casinospelen aan te bieden.
+<br>
+
+| ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+### Artikel VI-3 Loterijen
+1. Schuldig is een persoon die zonder geldige vergunning een loterij houdt waarbij een winnend lotnummer door trekking wordt gekozen.
+2. Niet schuldig is een persoon die hiervoor een geldende vergunning heeft.
+<br>
+
+| ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+### Artikel VI-4 
+1. Schuldig is een persoon die zonder geldige vergunning een gelegenheid biedt om geld of goederen te verdubbelen door het afgeven of overmaken van een voorgesteld bedrag of goed.
+2. Schuldig is een persoon die zonder geldige vergunning geld of goederen eist, teneinde daaruit een voordeel uit te beloven dat geheel of ten dele afhankelijk is van de afgifte van geld of goederen door latere deelnemers.
+3. Niet schuldig is een persoon die hiervoor een geldende vergunning heeft.
+<br>
+
+| ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+## VII - overige delicten
+<br>
+
+### Artikel VII-1 Niet voldoen aan een bevel of vordering
+1. Schuldig is een persoon die opzettelijk niet voldoet aan een bevel of vordering dat krachtens wettelijk voorschrift wordt gegeven door een ambtenaar in functie.
+2. Schuldig is een persoon die opzettelijk een ambtenaar in functie belemmert in de uitvoering daarvan.
+<br>
+
+| ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+### Artikel VII-2 Belediging
+1. Schuldig is een persoon die opzettelijk een ander belegdigt op straffe van een boete van €1200,- per geval.
+2. Wanneer de belediging opzettelijk is geuit richting een ambtenaar in functie wordt de boete uit lid 1 verdubbeld.
+
+<br>
+
+### Artikel VII-3
+1. Schuldig is een persoon die bij vordering van een ambtenaar in functie valse gegevens opgeeft, op straffe van een boete van €250,- per geval.
+
+<br>
+
+### Artikel VII-4 niet op eerste vordering tonen van identiteitsbewijs
+1. Schuldig is een persoon die geen gehoor geeft aan een vordering tot inzage van het identiteitsbewijs door een ambtenaar in functie, wanneer dit in het kader van de wet door de ambtenaar als noodzakelijk wordt geacht, op straffe van een boete van €320,- per geval.
+
+<br>
+
+### Artikel VII-5 Openbnare dronkenschap
+1. Schuldig is een persoon die zich begeeft in de openbare ruimte terwijl hij of zij in kennelijke staat van dronkenschap verkeert.
+<br>
+
+| ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+### Artikel VII-6 Dragen van gezichtbedekkende kleding
+1. Schuldig is een persoon die kleding draagt, die het gezicht geheel bedekt of zodanig bedekt dat alleen de ogen onbedekt zijn, dan wel onherkenbaar maakt, op straffe van een boete van €200,- per geval.
+2. Het eerste lid is niet van toepassing, voor zover kleding als bedoeld in dat lid:
+    - wordt gedragen door cliënten, patiënten of hun bezoekers in residentiële delen van zorginstellingen,
+    - noodzakelijk is ter bescherming van het lichaam in verband met de gezondheid of de veiligheid,
+    - noodzakelijk is in verband met eisen die aan de uitoefening van een beroep of sport worden gesteld,
+    - passend is in verband met het deelnemen aan een feestelijke of een culturele activiteit.
+
+<br>
+
+### Artikel VII-7 Identiteitsfraude
+1. Schuldig is een persoon die zich uitgeeft als iemand anders, onder naam van iemand anders, in naam van iemand anders, of gelieerd aan iemand anders met als doel daaruit een gewin te behalen in brede zin.
+<br>
+
+| ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+### Artikel VII-8 Deelname aan een criminele organisatie
+1. Schuldig is een persoon die deelneemt aan, steun verleent aan, of gelieerd is aan een organisatie die tot doel heeft het plegen van misdrijven.
+2. Ten aanzien van de oprichters, leiders of bestuurders kunnen de gevangenisstraffen met 33% worden verhoogd.
+3. Onder deelneming als omschreven in het eerste lid wordt mede begrepen het verlenen van geldelijke of andere stoffelijke steun aan alsmede het werven van gelden of personen ten behoeve van de daar omschreven organisatie.
+<br>
+
+| ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+### Artikel VII-9 Lokaalvredebreuk
+1. Schuldig is een persoon die in een voor de openbare dienst bestemd lokaal, besloten erf of openbare ruimte, wederrechtelijk binnendringt, of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van de bevoegde ambtenaar aanstonds verwijdert.
+2. Schuldig is een persoon die zich de toegang heeft verschaft door middel van braak of inklimming, van valse sleutels, van een valse order of een vals kostuum, of die zonder voorkennis van de bevoegde ambtenaar en anders dan ten gevolge van vergissing binnengekomen, aldaar wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
+<br>
+
+| ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+### Artikel VII-10 Huisvredebreuk
+1. Schuldig is een persoon die een woning of besloten lokaal of erf bij een ander in gebruik, wederrechtelijk binnendringt of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van of vanwege de rechthebbende aanstonds verwijdert.
+2. Schuldig is een persoon die zich de toegang heeft verschaft door middel van braak of inklimming, van lockpicks, van een valse order of vals kostuum, of die, zonder voorkennis van de rechthebbende en anders dan ten gevolge van vergissing binnengekomen, aldaar wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
+<br>
+
+| ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+### Artikel VII-11 Betreden van verboden domein
+1. Schuldig is een persoon die zonder daartoe gerechtigd is, over iemand anders zijn grond waarvan de toegang op een voor hem blijkbare wijze door den rechthebbende is verboden, loopt, rijdt of vee laat lopen.
+2. Schuldig is een persoon die zonder daartoe gerechtigd is, over bij wet geclassificeerde verboden domeinen te lopen, rijden, varen, vliegen of landen zonder nadrukkelijke en aantoonbaar toestemming te hebben verkregen van de Politie of Koninklijke Marechaussee
+<br>
+
+| ***Geclassificeerde verboden domeinen*** |
+| ------------------ |
+| Gevangenis |
+| Legerbasis |
+| Vliegdekschip |
+
+
+| ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+### Artikel VII-12 Recht op bijstand Advocaat tijdens huiszoeking
+1. De verdachte is bevoegd zich tijdens het doorzoeken van plaatsen door zijn advocaat te doen bijstaan, zonder dat de doorzoeking daardoor mag worden opgehouden.
+<br>
+
+| ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+### Artikel VII-13 Misdrijven tegen de openbare orde
+1. Hij die in het openbaar, mondeling of bij geschrift of afbeelding, tot enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag opruit, wordt gestraft volgens onderstaande tabel.
+<br>
+
+| ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+### Artikel VII-14 Misdrijven tegen het openbaar gezag
+1. Een persoon wordt als schuldig beschouwd wanneer hij opzettelijk iemand helpt die schuldig is aan of verdacht wordt van een misdrijf om te ontsnappen aan de opsporing of aanhouding door ambtenaren in functie.
+2. Een persoon wordt als schuldig beschouwd wanneer hij opzettelijk voorwerpen vernietigt of ontneemt om de inbeslagname door een ambtenaar in functie te voorkomen of te hinderen.
+<br>
+
+| ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+## VIII - Algemene douanewet
+<br>
+
+### Artikel VIII-1 Negeren van controle (Algemene Douanewet)
+1. Schuldig is tevens een persoon die zich onthoudt van aanhouding dan wel controle door de politie en/of KMar in een Douanegebied
+2. Niet schuldig is tevens een persoon die een Douanegebied passeert zonder controle wanneer deze persoon niet tijdig en duidelijk tot stilstand wordt gemaand door het dienstdoend personeel.
+3. De straf gegeven voor de overtredingen als bedoeld in lid 1 en 2 wordt gegeven in de vorm van een boete van €10000 voor de eerste maal en €15000 voor alle opvolgende malen.
+
+<br>
+
+### Artikel VIII-2 Bepalingen inzake douanetoezicht en douanecontrole
+
+| ***Definitie*** | ***Toelichting*** | 
+| ------------------ | ---------- |
+| Open water | Rivieren en riviermondingen, meren en zeeën van natuurlijke oorsprong die in directe verbinding staan met de open zee/oceaan. Dus een verbinding zonder obstakels zoals een dam. Deze verbinding moet bevaarbaar zijn voor schepen en/of boten|
+| Binnenland | Gebieden met een vaste ondergrond |
+| Binnenwater | Rivieren, kanalen en meren zonder directe verbinding met de open zee/ocean. |
+
+1. De Koninklijke Marechaussee is bevoegd aan controle te onderwerpen:
+    - a. Personen en/of vervoermiddelen en/of plaatsen voor distributie en overslag voor goederen die over de weg worden vervoerd, havens, haventerreinen, luchthavens, grensinspectiepost en luchtvaartterreinen.
+    - b. Controle zoals beschreven in lid 1 is alleen van toepassing op gebieden die staan gemarkeerd als douanegebied op de douanekaart. Zie hiervoor de kaart douanegebieden in het wetboek.
+    - c. Uitzondering op lid 1b betreft vervoersmiddelen en/of personen, die aantoonbaar door de Koninklijke Marechaussee, vanuit open water het binnenland of binnenwater betreden.
+2. Onder controle in de zin van lid 1 wordt mede verstaan doorzoeking en fouillering.
+3. Fouillering geschiedt op een besloten plaats door dienstdoend personeel die van hetzelfde geslacht zijn als de persoon die aan fouillering wordt onderworpen.
+4. Onder fouillering zoals beschreven in lid 2 en lid 3 wordt verstaan: het onderzoek aan de kleding; en/of het verwijderen van de kleding, teneinde deze aan een nauwkeurig onderzoek te onderwerpen. Verwijderen van onderkleding is niet toegestaan.
+5. De Koninklijke Marechaussee is bevoegd met het oog op de uitoefening van de bevoegdheden, zoals bedoeld in dit artikel, de bestuurder dan wel de gezagvoerder van het vervoermiddel te vorderen dat deze zijn vervoermiddel vaart laat minderen, bijdraait, landt, stilhoudt, naar een door hem aangewezen plaats overbrengt, aanlegt en de motor buiten werking stelt. De in dit lid bedoelde personen zijn gehouden aan de vordering te voldoen.
+6. De Koninklijke Marechaussee is bevoegd personen die aanwezig zijn in of op de in dit artikel bedoelde locaties of vervoermiddelen of deze juist gaan betreden of hebben verlaten aan fouillering te onderwerpen.
+7. De Koninklijke Marechaussee maakt van zijn bevoegdheden slechts gebruik voorzover dat redelijkerwijs voor de vervulling van zijn taak nodig is.
+<br>
+
+| ***veroordeling*** | ***Celstraf*** | ***Taakstraf*** | ***Boete*** | 
+| ------------------ | ------ | ---------| ---------- |
+| Eerste veroordeling | x maanden | x uren | €x,- |
+| Tweede veroordeling | x maanden | x uren | €x,- |
+| Meerdere veroordelingen | x maanden | x uren | €x,- |
+
+<br>
+
+## IX - Bewijs
+<br>
+
+### Artikel IX-1 Opsporingsonderzoek
+1. Met de opsporing van strafbare feiten zijn belast:
+    - de (hulp)officieren van justitie;
+    - de ambtenaren van politie voor zover zij zijn aangesteld voor de uitvoering van de politietaak;
+    - de ambtenaren van de Koninklijke Marechaause;
+    - de opsporingsambtenaren van de Recherche en Dienst Speciale Interventies (DSI);
+    - De bevoegdheid van ambtenaren die met de opsporing van strafbare feiten zijn belast, is beperkt tot het gebied waarvoor zij zijn aangesteld;
+
+<br>
+
+### Artikel IX-2 Wettige bewijsmiddelen
+1. Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan alleen worden aangenomen, indien de inhoud van wettige bewijsmiddelen de rechter de overtuiging heeft dat de verdachte het telastegelegde feit heeft begaan.
+2. Als wettige bewijsmiddelen worden alleen erkend:
+    - eigen waarneming van de rechter. Denk hierbij bijvoorbeeld aan foto- en videomateriaal die de rechter op de zitting te zien krijgt.
+    - verklaringen van de verdachte. Onder verklaring van de verdachte wordt verstaan de bij het onderzoek gedane opgave van feiten of omstandigheden, door verdachte zelf waargenomen of ondervonden. Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan niet uitsluitend worden aangenomen op de verklaring van verdachte;
+    - verklaringen van een getuige. Onder verklaring van een getuige wordt verstaan de bij het onderzoek gedane mededeling van feiten of omstandigheden, welke hij zelf waargenomen of ondervonden heeft. Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan niet uitsluitend worden aangenomen op de verklaring van één getuige;
+    - verklaringen van een deskundige. Onder verklaring van een deskundige wordt verstaan de bij het onderzoek afgelegde verklaring en oordeel op basis van zijn wetenschap en kennis;
+    - schriftelijke stukken;
+    - een verklaring van een ambtenaar onder ambtseed;
+    - (audio)visueel bewijs, zoals bodycambeelden of foto's.
+3. Onder schriftelijke stukken worden verstaan:
+    - processen-verbaal en andere geschriften, in de wettelijke vorm opgemaakt door colleges en personen, die daartoe bevoegd zijn, met mededeling van feiten of omstandigheden, door hen zelf waargenomen of ondervonden;
+    - verslagen van deskundigen met het antwoord op de opdracht die aan hen is verleend tot het verstrekken van informatie of het doen van onderzoek, gebaseerd op wat hun wetenschap en kennis hen leren omtrent datgene wat aan hun oordeel onderworpen is;
+    - alle andere geschriften; deze kunnen alleen gelden in verband met de inhoud van andere bewijsmiddelen;
+4. Er geldt een bewijsminimum van één bewijsstuk als het/de strafbare feit(en) volledig en overtuigend bewezen kunnen worden. Indien dit niet het geval is, dan zijn minimaal 2 bewijsstukken vereist. Dit betekent concreet dat de identiteit van de verdacht(en) en de exacte feiten en omstandigheden, bijvoorbeeld of er sprake is van opzet voor zover van toepassing, duidelijk moeten worden.
+5. Het bewijs dat de verdachte het telastegelegde feit heeft gepleegd, kan worden aangenomen op alleen het proces-verbaal van een opsporingsambtenaar.
+6. Feiten of omstandigheden van algemene bekendheid behoeven geen bewijs.
+
+<br>
+
+## X - Uitsluitings- en strafverminderinggronden
+<br>
+
+### Artikel X-1 Algemene Uitsluitingen
+1. Niet Schuldig is een persoon die:
+    - wegens de gebrekkige ontwikkeling of ziekelijke stoornis van zijn of haar geestvermogens een strafbaar feit begaat;
+    - door overmacht is gedwongen een strafbaar feit te begaan;
+    - vanwege een noodzakelijke verdediging van eigen of andermans lijf, eerbaarheid of goed tegen ogenblikkelijke, wederrechtelijke aanranding een strafbaar feit begaat;
+    - de grenzen van bovenstaande noodweer overtreedt gevolgens een hevige gemoedsbeweging, veroorzaakt door de aanranding;
+    - een strafbaar feit begaat ter uitvoering van een wettelijk voorschrift;
+    - een strafbaar feit begaat ter uitvoering van een ambtelijk bevel, gegeven door het daartoe bevoegde gezag;
+        - Een onbevoegd gegeven ambtelijk bevel heft de strafbaarheid niet op, tenzij het door de ondergeschikte te goeder trouw als bevoegd gegeven werd beschouwd en de nakoming daarvan binnen de kring van zijn ondergeschiktheid was gelegen.
+
+<br>
+
+### Artikel X-2 Vormfouten
+1. De (hulp-)Officier van justitie en de rechter kan/kunnen, indien blijkt dat bij het voorbereidend onderzoek vormen zijn verzuimd die niet meer kunnen worden hersteld en de rechtsgevolgen hiervan niet uit de wet blijken, bepalen dat:
+2. de hoogte van de straf in verhouding tot de ernst van het verzuim, zal worden verlaagd, indien het door het verzuim veroorzaakte nadeel langs deze weg kan worden gecompenseerd;
+3. de resultaten van het onderzoek die door het verzuim zijn verkregen, niet mogen bijdragen aan het bewijs van het telastegelegde feit;
+4. de verdachte uitgesloten is van rechtsvervolging;
+5. De in lid 4 toegepaste sanctie kan enkel worden gebruikt indien door het verzuim geen sprake kan zijn van een behandeling van de zaak die aan de beginselen van een behoorlijke procesorde voldoet.
+6. Bij de toepassing van de sancties in lid 2, 3 en 4 dient rekening gehouden te worden met het Schutznorm-beginsel
+7. Met onherstelbaar vormverzuim wordt onder andere bedoeld:
+    - een vooringenomen, sturende, druk uitoefenende manier van verhoren;
+    - wanneer ontlastende informatie wordt verzwegen, en/of bewijsmateriaal wordt vernietigd;
+    - het tappen van een met geheimhoudingsplicht bezwaarde professional, zoals arts, notaris, geestelijke, apotheker, advocaat;
+    - het voeren van een meinedig proces-verbaal zijnde tegenstrijdigheid met andere processen-verbaal, camerabeelden, geluidsopnamen;
+    - inbreuk op het recht van een verdachte op aanwezigheid van een advocaat tijdens een huiszoeking (en andere rechten van een verdachte), ook wel een verdedigingsrecht genoemd, bestaat er voor de (hulp-)Officier van justitie en de rechter een mogelijkheid om de inbreuk te herstellen.
+<br>
+
+### Artikel X-1 Strafvermindering
+1. Wanneer besloten wordt tot een strafvermindering kan als leidraad gebruikt worden:
+    - vermindering van maximaal de helft bij een onvoorwaardelijke tijdelijke vrijheidsstraf, taakstraf of geldboete, of
+    - de omzetting van maximaal de helft van het onvoorwaardelijke gedeelte van een vrijheidsstraf, taakstraf of van een geldboete in een voorwaardelijk gedeelte, of
+    - de vervanging van maximaal een derde gedeelte van een vrijheidsstraf door taakstraf of een onvoorwaardelijke geldboete.
+2. Strafverminderingsgronden worden bepaald in overleg tussen overheid en verdachte met bijstand van advocaat. Hierin meegenomen worden:
+    - eventuele eerdere vergrijpen (en/of het gebrek daar aan);
+    - goed gedrag en meewerking van de verdachte tijdens en na zijn of haar aanhouding;
+    - verzachtende omstandigheden;
+    - overmacht als gevolg van Stadsproblemen ("storm");
+    - proportionaliteit;
+    - aandeel van de verdachte in het geheel, indien er sprake is van een grootschalige overtreding met meerdere partijen.
 
 <br>
