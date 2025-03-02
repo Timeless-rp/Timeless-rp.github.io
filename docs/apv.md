@@ -178,4 +178,133 @@
 
 <br>
 
+### Artikel 15 - Deelname aan het verkeer
+**Het is niet toegestaan om onrealistische rijstijlen aan te nemen.**
+*Enkele voorbeelden hiervan zijn, niet beperkt tot:*
+- Onrealistische jumps uitoefenen.
+- Met een onroad voertuig harder dan 100 km/h over zandwegen rijden.
+- Een voertuig mag geen brake check uitvoeren
+- Pitten mag alleen met voertuigen van dezelfde gewichtsklassen onder de 100 km/h
+- Agenten van de landelijke eenheid hebben een specialistische training uitgevoerd om te mogen pitten tot 130 km/h. De DSI operators hebben een specialistische training ondergaan en mogen op uitzondering een pit uitvoeren tot 150 km/h.
+*Staff behoudt ten alle tijden het recht om per situatie te oordelen of het onrealistisch rijgedrag betreft*
 
+>Straf - Categorie 2
+
+<br>
+
+### Artikel 16 - Reporting
+**De ingame functie om spelers te rapporteren en bugs/vragen in te dienen is enkel bestemd voor gevallen die ter plekke opgelost kunnen worden. Het is niet de bedoeling om eigen rechter te gaan spelen.**
+
+>Straf - Categorie 3
+
+<br>
+
+### Artikel 17 - Greenzone
+**Binnen de greenzone is het verboden om geweld toe te passen. Het is dan ook niet toegestaan om tijdens een actief scenario een greenzone in te vluchten.**
+
+De volgende locaties betreffen een greenzone:
+- Pechhulp
+- Ziekenhuis
+- Gemeentewerf
+
+>Straf - Categorie 2
+
+<br>
+
+### Artikel 18 - Kledingregels
+**Het is niet toegestaan om de standaard outfit van de stad te dragen, die je aanhebt wanneer je de stad voor het eerst binnenkomt.**
+**Het is niet toegestaan om doorzichtige lichaamsdelen te hebben.**
+**Het is zaak om te zorgen dat je armen niet door je kleren heen komen.**
+
+>Straf - Categorie 1
+
+<br>
+
+## Overheid
+<br>
+
+### Artikel 19 - Copbaiting
+**Het is niet toegestaan om zonder goede reden politie/kmar van hun taken af te houden. Hieronder valt ook het wegrijden bij een reguliere controle**
+
+>Straf - Categorie 2
+
+<br>
+
+### Artikel 20 - Impersonisatie overheidsmedewerker
+**Het is niet toegestaan om kleding te dragen die te maken heeft met een overheidsbaan waar jij niet werkt.**
+
+>Straf - Categorie 2
+
+<br>
+
+### Artikel 21 - Overheidsvoertuigen
+1. Het is niet toegestaan om overheidsvoertuigen te tunen
+2. Het is alleen toegestaan om overheidsvoertuigen te besturen indien jij werkende bent bij de bijbehorende overheidsdienst (Uitzondering hierop is wanneer het voertuig gestolen is door crimineel met goede roleplay)
+3. Het is verplicht om in dienstkleding van betreffende overheidsinstantie rond te rijden in het voertuig
+
+> Straf - Categorie 2
+
+<br>
+
+### Artikel 22 - Gedrag tegen overheidsinstanties
+**Het is alleen toegestaan een overheidsmedewerker te ontvoeren indien de aantallen in dienst corresponderen met de specificatie hieronder. Het is nooit toegestaan een melding te maken naar een overheidsdienst met het doel om deze te vermoorden, overvallen of ontvoeren.**
+- Per 6 agenten mag er 1 ontvoerd worden
+- Per 6 kmar leden mag er 1 ontvoerd worden
+
+>Straf - Categorie 2
+
+<br>
+
+### Artikel 23 - Criminaliteit en ambtenaren
+**Als overheidsmedewerker is het ten allen tijde verboden om bezig te zijn met criminele activiteiten. Als burger/crimineel is het niet toegestaan in het bezit te zijn van objecten afkomstig van een overheidsdienst.**
+*Een uitzondering op dit artikel geld voor medewerkers van de politie met een specialistische training. Deze medewerkers mogen wel hun dienstwapens buiten dienst dragen ten behoeve van de uitvoering van hun werk.*
+
+>Straf - Categorie 5 (+ ontslag)
+
+<br>
+
+### Artikel 24 - Overval regels
+- 1 hostage is gelijk aan 2 eisen
+- Het is niet toegestaan om hostages te pakken op plekken waar werkzaamheden gestart worden of in kledingwinkels (Het vluchten naar deze veilige plekken valt onder het vluchten in een greenzone, zie artikel 17)
+- Vanaf groenlicht is er een grace period van 5 minuten. Dit houdt in dat er geen setup gedaan mag worden in de eerste 5 minuten van de achtervolging.
+- Indien politie/kmar bij een overval niet komt opdagen na 15 minuten, mag er op eigen risico weggereden worden met de buit zonder groenlicht te krijgen.
+
+<br>
+
+### Artikel 25 - Overvallen en oplichten
+1. Het is alleen toegestaan iemand te overvallen/bestelen als je aan kunt tonen dat deze persoon met criminele activiteiten bezig is.
+2. De volgende zaken mogen nooit gestolen worden:
+    - Geld op een bankrekening
+    - Drugsloodsen
+    - Onder dwang iemand zijn huis/ganghuis/bedrijfskluis leegroven
+    - De inhoud van voertuigen, tenzij de persoon met het voertuig iets illegaals heeft gedaan.
+3. Je mag alleen scammen als het om illegale goederen gaat, er een wapen bij betrokken is en het in een roleplay scenario gebeurt.
+4. Het oplichten met auto’s is niet toegestaan.
+
+>Straf - Categorie 3
+
+<br>
+
+### Artikel 26 - Wraak en liquidaties
+1. Het is enkel toegestaan om iemand om een reden te liquideren. Het is hierbij belangrijk dat de persoon de reden duidelijk wordt gemaakt voor de liquidatie zelf.
+2. Wraak mag enkel binnen 48 uur van betreffend scenario. Voor de geliquideerde persoon geld een timer van 24 uur waarin je geen deel mag uitmaken van eventuele wraakacties.
+
+>Straf - Categorie 2
+
+<br>
+
+### Artikel 27 - Overvallen
+1. Het is niet toegestaan om een overval te starten een half uur voor/na een restart.
+2. Het is niet toegestaan een hostage te rippen. Ook dien je een hostage de gelegenheid te bieden spullen veilig op te bergen (Hierbij mag de hostage niet wegrennen).
+3. Het is niet toegestaan om iemand als gijzelaar te gebruiken als dit een kennis van jou is.
+4. Het gebruikmaken van outside hostages mag alleen wanneer hier bewijs van geleverd kan worden.
+5. Het is niet toegestaan de onderhandelaar te gijzelen.
+6. Hyper/supercars mogen niet gebruikt worden voor overvallen.
+7. Een overval mag gecounterd worden tot de politie/kmar begonnen is met de afzetting of een voertuig gepositioneerd heeft.
+8. Indien politie aanwezig is dient deze direct de afzetting te starten en af te maken.
+9. Je mag iemand maximaal 30 minuten gegijzeld houden tot het scenario start.
+10. Het is niet toegestaan om zonder aanleiding mee te rijden in een achtervolging.
+
+>Straf - Categorie 4
+
+<br>
