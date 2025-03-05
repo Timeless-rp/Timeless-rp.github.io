@@ -21,4 +21,4 @@ De volgende documenten worden behandeld op deze website:
 | ---| -------------| ---- |
 | Timeless Roleplay | Discord server van Timeless Roleplay | [klik hier](https://discord.gg/UJhT4m27mF)
 | Timeless Support | Support Discord van Timeless | [klik hier](https://discord.gg/jn7bF4YVQN)|
-| Timeless Overheid | Overheidsdiscord van Timeless | |
+| Timeless Overheid | Overheidsdiscord van Timeless | [klik hier](https://discord.gg/HjR4vb7JxC)|

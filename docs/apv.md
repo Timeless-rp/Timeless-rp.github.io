@@ -308,3 +308,72 @@ De volgende locaties betreffen een greenzone:
 >Straf - Categorie 4
 
 <br>
+
+### Artikel 28 - Rippen
+**Het is niet toegestaan om dezelfde persoon binnen een uur meerdere malen te overvallen/gijzelen. Uitzondering is wanneer betreffend persoon zijn/haar outfit zodanig heeft veranderd dat deze niet meer terug te herkennen valt.**
+*Rippen/stelen is enkel toegestaan wanneer je een wapen op diegene richt. Het meenemen van dat voertuig is toegestaan. Rippen mag wanneer iemand gezien is op een illegale locatie. Het is niet toegestaan iemand te rippen en daarna te vermoorden.*
+
+>Straf - Categorie 2
+
+<br>
+
+### Artikel 29 - Campen
+**Het is niet toegestaan om te campen op een locatie betrokken bij illegale activiteiten met als doel mensen overvallen of vermoorden. Onder campen wordt verstaan “verdacht lang binnen 100 meter van een locatie zijn zonder goede aanleiding”.**
+*Dit geld ook voor overheidsinstanties*
+
+>Straf - Categorie 2
+
+<br>
+
+### Artikel 30 - Witwas
+**Het rippen van een witwasser is enkel toegestaan als er bewijs getoond kan worden dat persoon aan het witwassen was.**
+
+>Straf - Categorie 2
+
+<br>
+
+## Overige bepalingen
+<br>
+
+### Artikel 31 -  Herkenning
+1. Iemands stem herkennen mag alleen wanneer je deze persoon in-character kent. Mensen met een voice changer of masker mogen nooit op stem herkend worden!
+2. Het is alleen toegestaan iemand op kleding te herkennen indien die persoon overduidelijk een gelijke outfit aanheeft.
+
+>Straf - Categorie 2
+
+<br>
+
+### Artikel 32 - Wisselen van baan
+**Wanneer je van overheidsbaan/criminele organisatie over wil stappen naar een andere overheidsbaan/criminele organisatie, dien je 7 dagen te wachten vanaf moment ontslag indienen.**
+
+<br>
+
+### Artikel 33 - Real life trading
+**Het is ten allen tijde niet toegestaan om goederen in de stad te ruilen of verkopen voor geld/goederen buiten de stad om.**
+*Hieronder wordt ook het aanbieden of vragen naar verstaan*
+
+<br>
+
+### Artikel 34 - Graphic packs
+**Het gebruik van alternatieve graphic packs is enkel toegestaan als deze op geen enkele manier voordeel over een ander opleveren.**
+*Voorbeelden hiervan zijn, niet beperkt tot:*
+1. Permanente daylight packs
+2. Kogel tracer packs
+3. Custom beeldverhoudingen
+4. FOV aanpassingen
+5. Potato graphic packs
+
+>Straf - Categorie 6
+
+<br>
+
+### Artikel 35 - Bodycams
+**Het gebruik van body- en/of dashcambeelden is enkel toegestaan wanneer er een bodycam/dashcam aanwezig is in het scenario.**
+
+>Straf - Categorie 1
+
+<br>
+
+### Artikel 36 - Alternatieve karakters
+**Het is ten allen tijde niet toegestaan gebruik te maken van alt accounts met als doel voordeel te behalen in de stad. Ook het delen van je account met meerdere mensen is niet toegestaan.**
+*Een nieuw account aanmaken om opnieuw te beginnen is niet toegestaan, maak hiervoor een ticket aan in de support discord.*
